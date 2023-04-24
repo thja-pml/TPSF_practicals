@@ -1,0 +1,13 @@
+name: TPSF_test_env
+
+dependencies:
+  - python=3.7.6
+  - numpy
+  - matplotlib
+  - xarray
+  - pandas
+  - bokeh
+  - os 
+  - datetime
+  - satpy
+  
