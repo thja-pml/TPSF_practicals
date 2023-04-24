@@ -8,6 +8,5 @@ dependencies:
   - pandas
   - bokeh
   - os 
-  - datetime
   - satpy
   
